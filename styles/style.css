@@ -2,9 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
 }
 .container {
-    max-width: 1440px;
-    width: 100%;
-    margin: 0 auto;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 header {
@@ -23,7 +23,6 @@ header {
   font-weight: 400;
   line-height: normal;
   height: 100%;
-  
 }
 
 .bulleted__list {
@@ -37,7 +36,7 @@ header {
 .underline {
   text-decoration: none;
   border-bottom: 1px solid black;
-  
+
   line-height: 100%;
 }
 
@@ -95,8 +94,8 @@ header {
 }
 
 .aligned-text_left {
-    line-height: 115%;
-    margin-bottom: 19px;
+  line-height: 115%;
+  margin-bottom: 19px;
 }
 
 .aligned-text_center {
@@ -119,8 +118,6 @@ header {
   letter-spacing: 60px;
 }
 
-
-
 .overlay {
   height: 100%;
   background: rgba(0, 0, 0, 0.6);
@@ -132,41 +129,40 @@ header {
 }
 
 .cover__description {
-    display: flex;
-    justify-content: flex-end;
-    position: relative;
-    z-index: 2;
-    font-family: Raleway;
-    font-size: 22px;
-    font-style: normal;
-    font-weight: 400;
-    text-transform: uppercase;
-    padding-top: 135px ;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  z-index: 2;
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding-top: 135px;
 }
 
 .cover__description-text {
-    text-align: center;
-    line-height: 127%;
-    padding-right: 78px;
-    padding-top: 12px;
-    word-spacing: 18px;
+  text-align: center;
+  line-height: 127%;
+  padding-right: 78px;
+  padding-top: 12px;
+  word-spacing: 18px;
 }
 
 .bet-button {
-    font-family: Raleway;
-    font-size: 22px;
-    font-style: normal;
-    font-weight: 400;
-    text-transform: uppercase;
-    color: #fff;
-    background: transparent;
-    padding: 12px 32px;
-    border: 1px solid #FFF;
-
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #fff;
+  background: transparent;
+  padding: 12px 32px;
+  border: 1px solid #fff;
 }
 
 .lots {
-  padding: 180px 50px 180px 50px ;
+  padding: 180px 50px 180px 50px;
 }
 
 .lots__card {
@@ -198,7 +194,7 @@ header {
 }
 
 .card__title {
-  color: #FFF;
+  color: #fff;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -225,12 +221,12 @@ header {
 }
 
 .card__text {
-  color: #FFF;
+  color: #fff;
   font-family: Raleway;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 120%; 
+  line-height: 120%;
   z-index: 2;
 }
 
@@ -253,9 +249,7 @@ header {
   width: 240px;
   border-radius: 50%;
   background-color: black;
-  margin-left: 96px
-  
-
+  margin-left: 96px;
 }
 
 .about__logo-image {
@@ -316,5 +310,3 @@ footer {
   justify-content: flex-end;
   gap: 48px;
 }
-
-
