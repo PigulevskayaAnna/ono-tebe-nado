@@ -169,12 +169,11 @@ header {
   padding: 180px 50px 180px 50px ;
 }
 
-.lots__card{
+.lots__card {
   display: flex;
   gap: 26px;
   flex-wrap: nowrap;
   padding-bottom: 30px;
-
 }
 
 .lots__heading {
@@ -196,7 +195,6 @@ header {
   justify-content: space-between;
   z-index: 2;
   position: relative;
-    
 }
 
 .card__title {
@@ -244,7 +242,7 @@ header {
   margin-left: 41px;
 }
 
-.about{
+.about {
   padding: 3px 50px;
   display: flex;
   gap: 121px;
@@ -308,7 +306,7 @@ footer {
   gap: 6px;
 }
 
-.footer__social-icon{
+.footer__social-icon {
   height: 48px;
   width: 48px;
 }
